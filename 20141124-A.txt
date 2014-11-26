@@ -1,0 +1,17 @@
+pen	עֵט
+pencil	עִפָּרוֹן
+book	סֵפֶר
+bag	תִּיק
+telephone	טֶלֶפוֹן
+chair	כִּסֵּא
+table	שֻׁלְחָן
+bottle	בַּקְבּוּק
+computer	מַחְשֵׁב
+notebook	מַחְבֶּרֶת
+booklet	חוֹבֶרֶת
+classroom	כִּתָּה
+garden	גַּן
+office	מִשְׂרָד
+factory	מִפְעָל
+scientist	מַדְּעָן
+laboratory	מַעְבָּדָה

@@ -1,0 +1,12 @@
+gardener	גַּנָּן
+engineer	מְהַנְדֵּס
+pensioner	פֶּנְסְיוֹנֶר
+journalist	עִתּוֹנַאי
+architect	אַרְכִיטֶקְט
+student	סְטוּדֶנְט
+museum	מוּזֵאוֹן
+tourist guide	מַדְרִיךְ תיירים
+mother	אִמָּא
+daughter	בַּת
+writer	סוֹפֵר
+neighbour	שָׁכֵן
